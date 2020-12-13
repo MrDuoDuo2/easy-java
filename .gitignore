@@ -9,14 +9,8 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-<<<<<<< HEAD
 .idea/
-=======
-<<<<<<< HEAD
-.idea/
-=======
->>>>>>> 9c9508c70cd960f63aa091f731bae34cc1927508
->>>>>>> a6216ea67e80057a37790a4c581a39c1dfba4644
+
 
 # Package Files #
 *.jar
@@ -26,6 +20,7 @@
 *.zip
 *.tar.gz
 *.rar
+*.iml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
