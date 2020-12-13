@@ -9,7 +9,10 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> 9c9508c70cd960f63aa091f731bae34cc1927508
 
 # Package Files #
 *.jar
